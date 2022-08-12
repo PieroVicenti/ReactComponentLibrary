@@ -28,5 +28,13 @@
   },
   "dependencies": {
     "user": "^0.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PieroVicenti/ReactComponentLibrary.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PieroVicenti/ReactComponentLibrary/issues"
+  },
+  "homepage": "https://github.com/PieroVicenti/ReactComponentLibrary#readme"
 }

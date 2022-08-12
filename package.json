@@ -1,6 +1,6 @@
 {
   "name": "@pierovicenti/reactcomponentlibrary",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "A react component library",
   "scripts": {
     "rollup": "rollup -c"
@@ -24,6 +24,9 @@
   ],
   "types": "dist/index.d.ts",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@pierovicenti/reactcomponentlibrary"
+    "registry": "https://npm.pkg.github.com/@pierovicenti"
+  },
+  "dependencies": {
+    "user": "^0.0.0"
   }
 }

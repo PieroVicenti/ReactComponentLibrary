@@ -1,6 +1,7 @@
 # reactcomponentlibrary
 Library for learning purposes only
 ## Programming language
-React
+Javascript
+## Frameworks
 ## Components
 Buttons only
